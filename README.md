@@ -11,15 +11,16 @@ A simple real-time chat application built with React and Spring Boot using WebSo
 
 ## Screenshots
 
-**Joining Page**
-<br />
+**Joining Page**  
 <img src="./public/login.png" alt="Login Screenshot" width="500"/>
 
-**Chat Room (Multiple Users)**
-<br />
-<img src="./public/bhim.png" alt="Chat Screenshot 1" width="500"/>
-<img src="./public/bijay.png" alt="Chat Screenshot 2" width="500"/>
-<img src="./public/lochan.png" alt="Chat Screenshot 3" width="500"/>
+**Chat Room (Multiple Users)**  
+<div style="display: flex; gap: 10px;">
+  <img src="./public/bhim.png" alt="Chat Screenshot 1" width="250"/>
+  <img src="./public/bijay.png" alt="Chat Screenshot 2" width="250"/>
+  <img src="./public/lochan.png" alt="Chat Screenshot 3" width="250"/>
+</div>
+
 
 ## Tech Stack
 
